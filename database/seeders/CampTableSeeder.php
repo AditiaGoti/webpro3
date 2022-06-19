@@ -26,7 +26,7 @@ class CampTableSeeder extends Seeder
         ],
         [
             'tittphle' => 'Baru Mulai',
-            'slug' => 'baru-mulaii',
+            'slug' => 'baru-mulai',
             'price' => 140,
             'created_at' => date('Y-m-d H:i:s',time()),
             'updated_at' => date('Y-m-d H:i:s',time()),
